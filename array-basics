@@ -1,0 +1,6 @@
+students = ["Harry Potter", "Ron Weasley", "Hermione Granger", "Draco Malfoy"]
+students[1]
+
+puppies = ["bulldog", "terrier", "poodle"]
+random_numbers = [ 2, 5, 6, 8, 30050]
+mixed =
